@@ -5,6 +5,11 @@
 ## Overview
 This database contains information about participating teams and matches in the FIFA World Cup tournament.
 
+## Project goal: 
+Create a Bash script that enters information from World Cup games.csv file into PostgreSQL, then query the database for useful statistics.
+
+Project made as part of the <b> FreeCodeCamp Relational Databases Beta Certificate course </b>
+
 ## Data Structure
 The database consists of two main tables:
 
